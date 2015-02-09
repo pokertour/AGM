@@ -11,6 +11,7 @@
       <Czech>Připravit lana</Czech>
       <Hungarian>Kötelek leengedése</Hungarian>
       <Portuguese>Soltar Cordas</Portuguese>
+      <French>Déployer cordes</French>
     </Key>
     <Key ID="STR_AGM_FastRoping_FastRope">
       <English>Fast Rope</English>
@@ -21,6 +22,7 @@
       <Czech>Slanování</Czech>
       <Hungarian>Leereszkedés</Hungarian>
       <Portuguese>Descer por Corda</Portuguese>
+      <French>Fast Rope</French>
     </Key>
     <Key ID="STR_AGM_FastRoping_CutRopes">
       <English>Cut Ropes</English>
@@ -31,6 +33,7 @@
       <Czech>Odstranit lana</Czech>
       <Hungarian>Kötelek elvágása</Hungarian>
       <Portuguese>Cortar Cordas</Portuguese>
+      <French>Couper cordes</French>
     </Key>
   </Package>
 </Project>
